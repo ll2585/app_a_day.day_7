@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Day 7</string>
+
+    <string name="spoken_input">Say a role</string>
+    <string name="action_settings">Settings</string>
+    <string name="stt_not_supported_message">Your Device Doesn\'t Support Speech to Text</string>
+
+</resources>
